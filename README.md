@@ -21,6 +21,10 @@ require_once 'JMessage.php';
        $jim = new JMessage();
        var_dump($jim->openRegister(array('username' => 'test1', 'password' => '123456')));
        var_dump($jim->getUserDetails('test1'));
+       
+       //发送消息
+       var_dump($jim->sendMsg('test1', '天气不错哦'));
+       var_dump($jim->sendMsg('10008151', '下午好', 'group'));
     }
 ```
 
