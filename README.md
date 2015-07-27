@@ -31,3 +31,6 @@ require_once 'JMessage.php';
 ## 文档
 * [IM REST API](http://docs.jpush.io/server/rest_api_im/)
 
+## 版本更新
+
+* [Release页面](https://github.com/52fhy/JMessage/releases)有详细的版本发布记录与下载。
