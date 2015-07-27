@@ -6,7 +6,7 @@
 
 ## 简要概述  
 
-* 本API提供简单的接口去调用[IM REST API][http://docs.jpush.io/server/rest_api_im/]
+* 本API提供简单的接口去调用(IM REST API][http://docs.jpush.io/server/rest_api_im/)
 
 
 ## 引入代码
@@ -25,5 +25,5 @@ require_once 'JMessage.php';
 ```
 
 ## 文档
-* [IM REST API][http://docs.jpush.io/server/rest_api_im/]
+* [IM REST API](http://docs.jpush.io/server/rest_api_im/)
 
