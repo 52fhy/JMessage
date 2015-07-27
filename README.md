@@ -21,6 +21,7 @@ require_once 'JMessage.php';
        $jim = new JMessage();
        var_dump($jim->openRegister(array('username' => 'test1', 'password' => '123456')));
        var_dump($jim->getUserDetails('test1'));
+    }
 ```
 
 ## 文档
