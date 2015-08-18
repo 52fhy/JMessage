@@ -326,7 +326,7 @@ class JMessage
                     $data = array('add' => $options);
                     break;
                 case 'remove' :
-                    $data = array('add' => $options);
+                    $data = array('remove' => $options);
                     break;
                 default:
                     exit('action not allowed');
