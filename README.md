@@ -10,12 +10,12 @@
 
 
 ## 引入代码
-```
+``` php
 require_once 'JMessage.php';
 ```
 
 ## 例子
-```
+``` php
     public function test()
     {
        $jim = new JMessage();
